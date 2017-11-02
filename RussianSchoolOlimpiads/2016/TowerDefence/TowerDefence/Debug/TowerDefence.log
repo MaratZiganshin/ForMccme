@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\github\formccme\russianschoololimpiads\2016\towerdefence\towerdefence\source.cpp(20): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\github\formccme\russianschoololimpiads\2016\towerdefence\towerdefence\source.cpp(21): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+c:\github\formccme\russianschoololimpiads\2016\towerdefence\towerdefence\source.cpp(22): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+  TowerDefence.vcxproj -> C:\GitHub\ForMccme\RussianSchoolOlimpiads\2016\TowerDefence\Debug\TowerDefence.exe
+  TowerDefence.vcxproj -> C:\GitHub\ForMccme\RussianSchoolOlimpiads\2016\TowerDefence\Debug\TowerDefence.pdb (Partial PDB)
